@@ -10,3 +10,5 @@ También repasamos las listas y los diccionarios.
 
 ##Martes 07 de marzo 
 En el segundo archivo hemos estado repasando Condicionales. 
+Culminamos los ejercicios de Condicionales. 
+Comenzamos a revisar los Bucles con for. 
