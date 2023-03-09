@@ -17,3 +17,4 @@ Comenzamos a revisar los Bucles con for.
 Culminamos los ejercicios de Bucles con for. 
 Queda pendiente un ejercicio sobre la serie de Fibonaci.
 Comenzamos a revisar Programación funcional (funciones) y programación imperativa. 
+Funciones lambda, map y filter. 
