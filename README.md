@@ -12,3 +12,8 @@ También repasamos las listas y los diccionarios.
 En el segundo archivo hemos estado repasando Condicionales. 
 Culminamos los ejercicios de Condicionales. 
 Comenzamos a revisar los Bucles con for. 
+
+## Miércoles 8 de marzo 
+Culminamos los ejercicios de Bucles con for. 
+Queda pendiente un ejercicio sobre la serie de Fibonaci.
+Comenzamos a revisar Programación funcional (funciones) y programación imperativa. 
