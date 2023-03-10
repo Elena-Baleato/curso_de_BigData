@@ -18,3 +18,7 @@ Culminamos los ejercicios de Bucles con for.
 Queda pendiente un ejercicio sobre la serie de Fibonaci.
 Comenzamos a revisar Programación funcional (funciones) y programación imperativa. 
 Funciones lambda, map y filter. 
+
+## Jueves 9 de marzo 
+Estudiamos con el archivo de teoría los RDD, así como los conceptos de Sesión y Contexto. 
+Resolvimos los ejercicios de programación funcional, funciones lambda, map y filter que habían quedado pendientes. 
